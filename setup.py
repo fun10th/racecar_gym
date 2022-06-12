@@ -7,7 +7,7 @@ setup(
     install_requires=['pybullet',
                       'scipy', # version automatically choosen w.r.t numpy
                       'numpy',
-                      'gym=',
+                      'gym',
                       'yamldataclassconfig',
                       'nptyping',
                       'pettingzoo'
